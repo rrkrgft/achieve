@@ -1,0 +1,41 @@
+.side_menu .point2 a {
+ background-color: #fcecec;
+ color: #4d4d4d; 
+}
+
+.interval {
+  border-spacing: 10px 0px;
+}
+
+.content tr {
+  height: 7rem;
+}
+
+.content th {
+  width: 150px;
+  margin-right: 10px;
+  text-align: right;
+}
+.content td {
+  margin-left: 10px;
+}
+
+.box {
+  width: 480px;
+}
+
+.button {
+  text-align: center;
+  height: 7rem;
+}
+
+.button1 {
+  margin: 10px;
+  background-color: #008b8b;
+  color: white;
+  font-size: 3rem;
+}
+
+.button1:hover {
+  opacity: 0.5;
+}
